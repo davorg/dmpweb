@@ -1,23 +1,15 @@
-body {
-  padding-top: 5rem;
-}
-
-main {
+html, body, main, div {
   min-height: 100%;
   height: 100%;
-  border: solid 1px red;
+  min-width: 100%;
+  width: 100%;
+}
+body {
+  padding-top: 5rem;
 }
 
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-  min-height: 100%;
-  height: 100%;
-  border: solid 1px green;
 }
 
-iframe {
-  width: 100%;
-  height: 100%;
-  border: solid 1px blue;
-}

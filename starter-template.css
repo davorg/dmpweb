@@ -1,11 +1,10 @@
-html, body, main, div {
-  min-height: 100%;
-  height: 100%;
-  min-width: 100%;
-  width: 100%;
-}
+
 body {
   padding-top: 5rem;
+}
+
+.col-8 {
+  width: 100%;
 }
 
 .starter-template {
